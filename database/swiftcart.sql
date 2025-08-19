@@ -83,7 +83,7 @@ INSERT INTO categories (name, slug, image) VALUES
 -- Insert sample products
 INSERT INTO products (name, description, price, original_price, category_id, image, stock_quantity, featured) VALUES
 ('iPhone 16 Pro', 'Latest iPhone with A18 Pro chip', 127500.00, 175000.00, 1, 'images/products/iphone15.jpg', 50, TRUE),
-('Samsung Galaxy S25', 'Flagship Android smartphone', 899.99, 999.99, 1, 'images/products/galaxy-s24.jpg', 30, TRUE),
+('Samsung Galaxy S25', 'Flagship Android smartphone', 77000.00, 95000.00, 1, 'images/products/galaxy-s24.jpg', 30, TRUE),
 ('MacBook Pro M3', 'Professional laptop with M3 chip', 1999.99, 2199.99, 2, 'images/products/macbook-pro.jpg', 20, TRUE),
 ('Dell XPS 13', 'Ultra-portable Windows laptop', 1299.99, 1399.99, 2, 'images/products/dell-xps13.jpg', 25, FALSE),
 ('Apple Watch Series 9', 'Advanced health and fitness tracking', 399.99, 449.99, 3, 'images/products/apple-watch.jpg', 40, TRUE),
