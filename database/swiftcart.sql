@@ -86,7 +86,7 @@ INSERT INTO products (name, description, price, original_price, category_id, ima
 ('Samsung Galaxy S25', 'Flagship Android smartphone', 77000.00, 95000.00, 1, 'images/products/galaxy-s24.jpg', 30, TRUE),
 ('MacBook Pro M4', 'Professional laptop with M3 chip', 114500.00, 140000.00, 2, 'images/products/macbook-pro.jpg', 20, TRUE),
 ('Dell XPS 13', 'Ultra-portable Windows laptop', 297000.00, 319000.00, 2, 'images/products/dell-xps13.jpg', 25, FALSE),
-('Apple Watch Series 9', 'Advanced health and fitness tracking', 399.99, 449.99, 3, 'images/products/apple-watch.jpg', 40, TRUE),
+('Apple Watch Series 10', 'Advanced health and fitness tracking', 399.99, 449.99, 3, 'images/products/apple-watch.jpg', 40, TRUE),
 ('Samsung Galaxy Watch 6', 'Smart fitness companion', 329.99, 379.99, 3, 'images/products/galaxy-watch.jpg', 35, FALSE),
 ('AirPods Pro 2', 'Premium wireless earbuds', 249.99, 279.99, 4, 'images/products/airpods-pro.jpg', 60, TRUE),
 ('iPad Air', 'Versatile tablet for work and play', 599.99, 649.99, 4, 'images/products/ipad-air.jpg', 45, FALSE);
