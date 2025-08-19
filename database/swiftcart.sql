@@ -82,12 +82,12 @@ INSERT INTO categories (name, slug, image) VALUES
 
 -- Insert sample products
 INSERT INTO products (name, description, price, original_price, category_id, image, stock_quantity, featured) VALUES
-('iPhone 16 Pro', 'Latest iPhone with A18 Pro chip', 127500.00, 175000.00, 1, 'images/products/iphone15.jpg', 50, TRUE),
-('Samsung Galaxy S25', 'Flagship Android smartphone', 77000.00, 95000.00, 1, 'images/products/galaxy-s24.jpg', 30, TRUE),
-('MacBook Pro M4', 'Professional laptop with M3 chip', 114500.00, 140000.00, 2, 'images/products/macbook-pro.jpg', 20, TRUE),
-('Dell XPS 13', 'Ultra-portable Windows laptop', 297000.00, 319000.00, 2, 'images/products/dell-xps13.jpg', 25, FALSE),
-('Apple Watch Series 10', 'Advanced health and fitness tracking', 42000.00, 50000.00, 3, 'images/products/apple-watch.jpg', 40, TRUE),
-('Samsung Galaxy Watch 2025', 'Smart fitness companion', 66000.00, 75000.00, 3, 'images/products/galaxy-watch.jpg', 35, FALSE),
-('AirPods Pro 2', 'Premium wireless earbuds', 24500.00, 34500.00, 4, 'images/products/airpods-pro.jpg', 60, TRUE),
-('iPad Air M3', 'Versatile tablet for work and play', 69500.00, 84000.00, 4, 'images/products/ipad-air.jpg', 45, FALSE);
+('iPhone 16 Pro', 'Latest iPhone with A18 Pro chip', 127500.00, 175000.00, 1, 'images/products/iphone15.PNG', 50, TRUE),
+('Samsung Galaxy S25', 'Flagship Android smartphone', 77000.00, 95000.00, 1, 'images/products/galaxy-s24.PNG', 30, TRUE),
+('MacBook Pro M4', 'Professional laptop with M3 chip', 114500.00, 140000.00, 2, 'images/products/macbook-pro.PNG', 20, TRUE),
+('Dell XPS 13', 'Ultra-portable Windows laptop', 297000.00, 319000.00, 2, 'images/products/dell-xps13.PNG', 25, FALSE),
+('Apple Watch Series 10', 'Advanced health and fitness tracking', 42000.00, 50000.00, 3, 'images/products/apple-watch.PNG', 40, TRUE),
+('Samsung Galaxy Watch 2025', 'Smart fitness companion', 66000.00, 75000.00, 3, 'images/products/galaxy-watch.PNG', 35, FALSE),
+('AirPods Pro 2', 'Premium wireless earbuds', 24500.00, 34500.00, 4, 'images/products/airpods-pro.PNG', 60, TRUE),
+('iPad Air M3', 'Versatile tablet for work and play', 69500.00, 84000.00, 4, 'images/products/ipad-air.PNG', 45, FALSE);
 ('Apple MagSafe Charger', 'Plug & Play', 6000.00, 7000.00, 4, 'images/products/magsafe.PNG', 45, FALSE);
