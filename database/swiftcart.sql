@@ -90,4 +90,4 @@ INSERT INTO products (name, description, price, original_price, category_id, ima
 ('Samsung Galaxy Watch 2025', 'Smart fitness companion', 66000.00, 75000.00, 3, 'images/products/galaxy-watch.jpg', 35, FALSE),
 ('AirPods Pro 2', 'Premium wireless earbuds', 24500.00, 34500.00, 4, 'images/products/airpods-pro.jpg', 60, TRUE),
 ('iPad Air M3', 'Versatile tablet for work and play', 69500.00, 84000.00, 4, 'images/products/ipad-air.jpg', 45, FALSE);
-('Apple MagSafe Charger', 'Versatile tablet for work and play', 69500.00, 84000.00, 4, 'images/products/ipad-air.jpg', 45, FALSE);
+('Apple MagSafe Charger', 'Plug & Play', 69500.00, 84000.00, 4, 'images/products/ipad-air.jpg', 45, FALSE);
